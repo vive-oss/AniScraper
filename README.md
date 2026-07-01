@@ -1,0 +1,2 @@
+# AniScrape
+MyAnimeList webscraper
