@@ -13,7 +13,7 @@ AniScrape pulls data from MyAnimeList's Top 300+ anime list and randomly picks o
 Install dependencies:
  
 ```bash
-
+TBD
 ```
 
 ## Usage
@@ -26,7 +26,7 @@ Running the script will scrape the current top anime list from MyAnimeList and p
 
 ## How it works
 
-1.
+1. TBD
 
 ## Disclaimer
 
