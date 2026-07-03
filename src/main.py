@@ -9,7 +9,6 @@ def main() -> None:
     MAX_RANK = 30150
   
     while True:
-        clear_screen()
         print("------------------------------AniScraper------------------------------")
         user_input = input(f"Pick a random anime from the top how many (1-{MAX_RANK})? Type 'q' to quit. ")
         
